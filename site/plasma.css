@@ -1,0 +1,62 @@
+body{
+    background:url(https://thumbs.gfycat.com/OblongInferiorCod-size_restricted.gif) no-repeat;
+    background-size: cover;
+}
+.menu{
+    margin-bottom: 20px;
+    background-color: black;
+    padding: 20px;
+    margin-left: 20px;
+}
+
+.current{
+    margin: 10px;
+    color: white;
+    padding: 5px;
+   
+}
+.menu>a:link,a:visited{
+    text-decoration: none;
+}
+.menu>a:hover,a:active{
+    background-color:white;
+    color: black
+}
+.container{
+    height: auto;
+    width: 800px ;
+    padding: 2rem;
+    background: rgba(0, 0, 0,0.8);
+    box-shadow: 0 16px 26px rgba(0,0,0,.5);
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.container h2{
+    color: wheat;
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+ input{
+    border-radius: 20px;
+    width: 48%;
+    padding: .8rem;
+    height: 50px;
+    margin-bottom: 10px;
+}
+*{
+    box-sizing: border-box;
+}
+.type{
+    float: left;
+}
+.ty{
+    float: right;
+}
+.button{
+    margin-top: 20px;
+}
