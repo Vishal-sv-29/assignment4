@@ -5,7 +5,11 @@ body{
 .menu{
     margin-bottom: 20px;
     background-color: black;
+<<<<<<< HEAD
     padding: 20px;   
+=======
+    padding: 20px;
+>>>>>>> 4aa8385aa238b0c724d0be8318e5808fc4bad507
 }
 
 .current{
